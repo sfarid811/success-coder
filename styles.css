@@ -345,6 +345,9 @@ footer .footer-container {
     display: inline-block;
     margin: 0 5px;
 }
+.links a i {
+    font-size: 1.3rem;
+}
 .section2, .section3, .section4, a {
     font-size: 14px;
     display: block;
