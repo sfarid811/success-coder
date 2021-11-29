@@ -162,8 +162,6 @@ section .hero-container .left-section a {
   
 }
 
-
-
 .wrapper {
     max-width: 1000px;
     margin: 0 auto;
@@ -228,9 +226,7 @@ figcaption {
       cursor: pointer;
      border-radius: 2px;
   }
-/* section .container .content {
-    padding: 1rem;
-} */
+
   section .container .content h5{
     font-size: 20px;
     line-height: 28px;
@@ -249,11 +245,14 @@ figcaption {
       align-items: center;
       margin: 0 10px;
 }
+.info-course span {
+    color: #4b5981;
+
+}
 section .container .info-course span i{
     display: block;
   font-size: 1rem;
   margin-right: 10px;
-
 }
 .cards {
     border-bottom: 1px solid #dfe2e9;
